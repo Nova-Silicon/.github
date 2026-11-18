@@ -11,8 +11,10 @@
 
 <p align="center">
   <a href="https://nova-silicon.github.io/">Website · 团队主页</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:xinxingyuan-sh@nova-silicon.com">Contact · 联系我们</a>
+</p>
+
+<p align="center">
+  Email · 邮箱：<a href="mailto:xinxingyuan-sh@nova-silicon.com">xinxingyuan-sh@nova-silicon.com</a>
 </p>
 
 We bring AI research and chip engineering together to build agentic workflows for analog and digital integrated circuit design.
